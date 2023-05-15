@@ -1,0 +1,54 @@
+body{
+    background-attachment: white;
+}
+
+header{
+    border: 1px solid white;
+    background: gray;
+    padding: 10px;
+    display: block;   
+    
+}
+
+.nombre{
+    text-align:center;
+    font-size: 30px;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: lighter;
+    color: antiquewhite;
+}
+
+div.imagen {
+    display: flex;
+    justify-content:center;
+        
+}
+
+img{
+    border-radius: 50%;
+}
+
+.flex-container{
+    display: flex;
+
+}
+
+.caja{
+    border: 1px solid white;
+    width: 500px;
+    height: 160px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+li{
+    text-align:start;
+}
+
+.cajas{
+    border: 1px solid white;
+    text-align: center;
+}
+
